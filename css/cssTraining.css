@@ -1,0 +1,91 @@
+#first {
+width:100%;
+height: 500px;
+background-image: url(../images/organization.png);
+background-size: cover;
+}
+
+#second {
+width:100%;
+height: 500px;
+background-image: url(../images/progress.jpg);
+background-size: cover;
+}
+
+#third {
+ width:100%;
+height: 500px;
+background-image: url(../images/stats.jpeg);
+background-size: cover;
+}
+
+#fourth {
+width:100%;
+height: 500px;
+background-image: url(../images/time.jpg);
+background-size: cover;
+}
+
+span {
+color:white;
+background-color: black;
+font-size: 40px;
+}
+
+#second span{
+    background-color:pink;
+    font-size:75px;
+}
+
+#fourth h1{
+    background-color:orange;
+    font-size:60px;
+    font-style:italic;
+}
+
+.mainHolder {
+    width:auto;
+    height:auto;
+}
+
+.div1 {
+    height: 200px;
+    width: 25%;
+    background-color: grey;
+    float:left;
+}
+
+.div2 {
+    height: 200px;
+    width: 75%;
+    background-color: lightblue;
+    float:right;
+}
+
+.div3 {
+    height: 200px;
+    width: 30%;
+    background-color: darkgrey;
+    float:left;
+}
+
+.div4 {
+    height: 200px;
+    width: 30%;
+    background-color: grey;
+    float:left;
+}
+.div5 {
+    height: 200px;
+    width: 40%;
+    background-color: darkgrey;
+    float:left;
+}
+
+.footer {
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    left:0;
+    right:0;
+    bottom:0;
