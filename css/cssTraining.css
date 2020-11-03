@@ -83,9 +83,31 @@ font-size: 40px;
 }
 
 .footer {
+    background-color: black;
+    color:white;
     height: 50px;
     width: 100%;
     position: fixed;
     left:0;
     right:0;
     bottom:0;
+}
+
+.shadow {
+    text-shadow: 5px 10px 10px ;
+}
+
+div.flexContainer {
+    display:flex;
+    background-color: green;
+    justify-content: space-between;
+    align-items: center;
+}
+
+div.flexContainer > div {
+    width:200px;
+    height:200px;
+    margin:20px 10px;
+    padding:20px;
+    background-color: gray;
+}
