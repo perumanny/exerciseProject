@@ -1,37 +1,30 @@
 .avatar {
-    height: 320px;
-    background-color: #fff111;
+    height: 400px;
     text-align: center;
 }
 
 .contact {
-    height: 250px;
-    background-color: #fff112;
+    height: 270px;
 }
 
 .technical {
     height: 320px;
-    background-color: #fff113;
 }
 
 .soft {
     height: 200px;
-    background-color: #fff114;
 }
 
 .bio {
-    height: 200px;
-    background-color: #fff115;
+    height: 180px;
 }
 
 .education {
     height: 305px;
-    background-color: #fff116;
 }
 
 .showcase {
-    height: 630px;
-    background-color: #fff117;
+    height: 700px;
 }
 
 .row div {
@@ -68,4 +61,44 @@ ul {
     margin-top:5px;
     margin-bottom:5px;
     list-style-position: inside; padding-left: 0;
+}
+
+.margin {
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+.contact p {
+    margin-top:15px;
+    padding-left:40px;
+}
+
+.padIcon {
+    margin-right:15px;
+}
+
+.technical img {
+    margin-top:15px;
+}
+
+.bio p {
+    margin-top:35px;
+}
+
+.showcase div {
+    text-align: center;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.title {
+    margin-top:40px;
+}
+
+.soft ul {
+    margin-top:30px;
+}
+
+.soft li{
+    padding:8px;
 }
