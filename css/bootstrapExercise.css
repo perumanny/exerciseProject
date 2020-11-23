@@ -1,0 +1,92 @@
+.riceText {
+    background-color: brown;
+    color: white;
+    padding:10px 20px;
+}
+
+.veggieText {
+
+}
+
+.container-fluid.bearBentoBox {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.bearBentoBox .col-md-4 {
+    background-color: limegreen;
+    color: white;
+}
+
+.bearBentoBox .col-md-8 p {
+    background-color:lightsalmon ;
+    color:white;
+}
+
+.bearBentoBox :last-child {
+    background-color:lightsalmon;
+    color:white;
+}
+
+/* bootstrap vertical alignment */
+
+.gridExercise {
+    background-color: lightseagreen;
+    margin: 30px 0;
+}
+
+.parentTarget {
+    height: 100px;
+    background-color: lightgray;
+    margin: 10px 0;
+}
+
+.parentTarget div {
+    height:50px;
+    background-color: lightblue;
+    border: 1px solid black;
+}
+
+.parent {
+    height:100px;
+    background-color: lightcoral;
+    border: 1px solid black;
+}
+
+.parent div {
+    height:50px;
+    background-color: lightgreen;
+    border: 1px solid black;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.black {
+    background-color: black;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.height100 {
+    height: 100px;
+}

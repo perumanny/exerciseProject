@@ -1,0 +1,38 @@
+.avatar {
+    height: 320px;
+    background-color: #fff111;
+}
+
+.contact {
+    height: 250px;
+    background-color: #fff112;
+}
+
+.technical {
+    height: 320px;
+    background-color: #fff113;
+}
+
+.soft {
+    height: 200px;
+    background-color: #fff114;
+}
+
+.bio {
+    height: 200px;
+    background-color: #fff115;
+}
+
+.education {
+    height: 305px;
+    background-color: #fff116;
+}
+
+.showcase {
+    height: 630px;
+    background-color: #fff117;
+}
+
+.row div {
+    width:100%;
+}
