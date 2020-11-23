@@ -57,7 +57,13 @@ div {
     font-weight: bold;
 }
 
-ul {
+.soft ul {
+    margin-top:5px;
+    margin-bottom:5px;
+    list-style-position: inside; padding-left: 0;
+}
+
+.date ul {
     margin-top:5px;
     margin-bottom:5px;
     list-style-position: inside; padding-left: 0;
