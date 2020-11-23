@@ -1,6 +1,7 @@
 .avatar {
     height: 320px;
     background-color: #fff111;
+    text-align: center;
 }
 
 .contact {
@@ -35,4 +36,36 @@
 
 .row div {
     width:100%;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+div {
+    font-size: small;
+}
+
+.date {
+    color: #0091BD;
+    text-decoration: underline;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.school {
+    margin-top:-5px;
+    margin-bottom:-5px;
+    font-weight: bold;
+}
+
+ul {
+    margin-top:5px;
+    margin-bottom:5px;
+    list-style-position: inside; padding-left: 0;
 }
