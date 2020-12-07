@@ -1,27 +1,68 @@
-#firstBox {
-width: 200px;
-height: 100px;
-background-color: indianred;
-padding:20px;
-margin:50px;
-border:10px green dotted;
-float: left;
+.width {
+	max-width: 750px;
+	margin:auto;
 }
 
-.secondBox {
-width: 500px;
-height: 500px;
-background-color: lawngreen;
-padding:20px;
-margin:50px;
-border:10px green dotted;
+.color {
+	background-color:mintcream;
 }
 
-#thirdBox {
-  width: 300px;
-  height: 300px;
-  background-color: red;
-  padding:20px;
-  margin:50px;
-  border:10px green dotted;
-  }
+.img {
+	height:auto;
+	width:100%;
+}
+
+.center {
+	display:flex;
+	justify-content: center;
+	align-content: center;
+}
+
+.padding {
+	padding-top:30px;
+	padding-bottom:30px;
+}
+
+.padleft {
+	padding-left: 10px;
+}
+
+.padright {
+	padding-right: 35px;
+}
+
+.padtop {
+	padding-top:30px;
+}
+
+.smallpadtop {
+	padding-top:5px;
+}
+
+h1 {
+	padding-top:15px;
+}
+
+hr {
+	color: #f00;
+	height: 5px;
+	padding:0;
+	margin:0;
+}
+
+a {
+	color:steelblue;
+}
+
+a:hover {
+	text-decoration: none;
+	color:black;
+}
+
+.footer {
+  padding-bottom: 50px;
+}
+
+body {
+  overflow-x: hidden;
+}
