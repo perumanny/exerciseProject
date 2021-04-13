@@ -1,7 +1,29 @@
 .customNav {
-    background-color: lightseagreen!important;
+    background-color:#ffffff!important;
 }
 
 div {
     font-size: small;
+    height:auto;
+}
+
+.fullwidth {
+    width:100%;
+    margin:auto;
+    padding:0px;
+    position: relative;
+    max-width: none !important;
+}
+
+.margin {
+	margin:50px 50px 50px 50px;
+}
+
+.img2 {
+    width:100%;
+    height: auto;
+}
+
+.margin2 {
+    margin:auto;
 }
